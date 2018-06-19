@@ -1,5 +1,6 @@
 # Comunica SPARQL HDT Init Actor
 
+[![Build Status](https://travis-ci.org/rdfostrich/comunica-actor-init-sparql-ostrich.svg?branch=master)](https://travis-ci.org/rdfostrich/comunica-actor-init-sparql-ostrich)
 [![npm version](https://badge.fury.io/js/%40comunica%2Factor-init-sparql-ostrich.svg)](https://www.npmjs.com/package/@comunica/actor-init-sparql-ostrich)
 
 A comunica SPARQL [OSTRICH](https://github.com/rdfostrich/) Init Actor.

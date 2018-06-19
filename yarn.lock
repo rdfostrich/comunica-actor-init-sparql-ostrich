@@ -480,8 +480,8 @@
   resolved "https://registry.yarnpkg.com/@comunica/mediator-race/-/mediator-race-1.1.0.tgz#3dee353889a2834b3a9480fb51a34836a9d5eb66"
 
 "@comunica/runner-cli@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@comunica/runner-cli/-/runner-cli-1.1.0.tgz#d6c95c25d1e6c054973a3d399bee101b71b4d9d0"
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@comunica/runner-cli/-/runner-cli-1.1.2.tgz#e0e5baea8ed418f95c7fbf993da1f18e14fad530"
   dependencies:
     "@comunica/runner" "^1.1.0"
 

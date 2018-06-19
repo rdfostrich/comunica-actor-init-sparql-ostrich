@@ -28,9 +28,6 @@ before_script: greenkeeper-lockfile-update
 after_script: greenkeeper-lockfile-upload
 script:
   - yarn run lint
-  - yarn run test-ci
-after_success:
-  - yarn run coveralls-ci
 cache:
   yarn: true
   directories:

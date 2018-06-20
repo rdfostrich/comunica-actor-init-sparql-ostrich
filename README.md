@@ -9,6 +9,8 @@ This module is part of the [Comunica framework](https://github.com/comunica/comu
 
 ## Install
 
+OSTRICH requires ZLib, Kyoto Cabinet and CMake (compilation only) to be installed.
+
 ```bash
 $ yarn add @comunica/actor-init-sparql-ostrich
 ```

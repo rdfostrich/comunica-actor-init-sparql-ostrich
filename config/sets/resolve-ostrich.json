@@ -1,0 +1,20 @@
+{
+  "@context": [
+    "https://linkedsoftwaredependencies.org/bundles/npm/@comunica/runner/^1.0.0/components/context.jsonld",
+
+    "https://linkedsoftwaredependencies.org/bundles/npm/@comunica/bus-rdf-resolve-quad-pattern/^1.0.0/components/context.jsonld",
+    "https://linkedsoftwaredependencies.org/bundles/npm/@comunica/actor-rdf-resolve-quad-pattern-ostrich/^1.0.0/components/context.jsonld",
+    {
+      "caiso": "npmd:@comunica/actor-init-sparql-ostrich/",
+      "files-caiso": "caiso:^1.0.0/",
+      "config-sets": "files-caiso:config/sets/"
+    }
+  ],
+  "@id": "urn:comunica:my",
+  "actors": [
+    {
+      "@id": "config-sets:resolve-ostrich.json#myQuadPatternResolver",
+      "@type": "ActorRdfResolveQuadPatternOstrich"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "@comunica/actor-init-sparql-ostrich",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A Comunica engine for SPARQL query evaluation over OSTRICH files",
   "lsd:importPaths": {
     "https://linkedsoftwaredependencies.org/bundles/npm/@comunica/actor-init-sparql-ostrich/^1.0.0/config/": "config/"

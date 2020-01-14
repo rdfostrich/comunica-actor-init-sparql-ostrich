@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+<a name="v1.2.0"></a>
+## [v1.2.0](https://github.com/rdfostrich/comunica-actor-init-sparql-ostrich/compare/v1.1.0...v1.2.0) - 2020-01-14
+
+### Changed
+* [Update to Comunica 1.10](https://github.com/rdfostrich/comunica-actor-init-sparql-ostrich/commit/f2688e7325b05597c8a9f585c773ed76f15ad5b4)
+* [Update @types/node to version 13.1.0](https://github.com/rdfostrich/comunica-actor-init-sparql-ostrich/commit/e40ce0f195677b50e3a5452b5f942c20d8b85d4b)
+
 <a name="v1.1.0"></a>
 ## [v1.1.0](https://github.com/rdfostrich/comunica-actor-init-sparql-ostrich/compare/v1.0.0...v1.1.0) - 2018-10-04
 

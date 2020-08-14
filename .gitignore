@@ -2,6 +2,7 @@ node_modules
 .idea
 lerna-debug.log
 yarn-error.log
+engine-default.js
 **/lib/**/*.js
 **/lib/**/*.js.map
 **/lib/**/*.d.ts

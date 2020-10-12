@@ -17,3 +17,4 @@ engine-default.js
 **/index.d.ts
 coverage
 documentation
+.eslintcache

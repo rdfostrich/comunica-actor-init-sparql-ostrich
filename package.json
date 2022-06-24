@@ -47,7 +47,7 @@
     "@comunica/actor-init-sparql": "^1.17.0",
     "@comunica/actor-query-operation-contextify-version": "^1.2.0",
     "@comunica/actor-rdf-resolve-quad-pattern-ostrich": "^1.2.0",
-    "@comunica/runner-cli": "^1.17.0"
+    "@comunica/runner-cli": "^2.0.0"
   },
   "devDependencies": {
     "@rubensworks/eslint-config": "^1.0.0",

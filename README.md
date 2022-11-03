@@ -1,3 +1,7 @@
+# DEPRECATED in favor of https://github.com/comunica/comunica-feature-versioning
+
+-----
+
 # Comunica SPARQL OSTRICH Init Actor
 
 [![Build Status](https://travis-ci.org/rdfostrich/comunica-actor-init-sparql-ostrich.svg?branch=master)](https://travis-ci.org/rdfostrich/comunica-actor-init-sparql-ostrich)
